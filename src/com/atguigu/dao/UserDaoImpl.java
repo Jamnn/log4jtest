@@ -11,7 +11,8 @@ public class UserDaoImpl {
 	public void getUserInfo(){
 		if (logger.isDebugEnabled()) {
 			logger.debug("getUserInfo() - start");
-			logger.debug("gitlianxi");
+			logger.debug("gitlianxi11");
+			logger.debug("gitlianxi22");
 			logger.debug("gitlianxi33");
 		}
 
