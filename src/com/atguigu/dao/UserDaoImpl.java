@@ -16,6 +16,7 @@ public class UserDaoImpl {
 			logger.debug("gitlianxi33");
 			logger.debug("gitlianxi44");
 			logger.debug("gitlianxi55");
+			logger.debug("gitlianxi77");
 		}
 
 		if (logger.isDebugEnabled()) {
